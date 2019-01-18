@@ -1,2 +1,4 @@
-# Gaussian-Discriminant-Analysis
-comparing GDA against Logistic Regression
+# Does Gaussian Discriminant Analysis perform better than Logistic Regression?
+
+## Overview
+
