@@ -13,8 +13,7 @@ I took two sets of data - one with Multivariate Gaussian Distribution and anothe
 
   
 ```diff
-+ <p><i>If p(x|y) is Gaussian, then p(y|x) is also logistic, hence both techniques output good classifiers. However, GDA performs better.</i></p>
-- this will be highlighted in red
++ If p(x|y) is Gaussian, then p(y|x) is also logistic, hence both techniques output good classifiers. However, GDA performs better.
 ```
 
 ### GDA on non-gaussian data:
