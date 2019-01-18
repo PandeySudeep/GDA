@@ -23,7 +23,8 @@ I took two sets of data - one with Multivariate Gaussian Distribution and anothe
 
 
 ```diff
-+ If p(y|x) is logistic, p(x|y) might not be Gaussian. Logistic regression should be chosen.
+If p(y|x) is logistic, p(x|y) might not be Gaussian. 
++ Logistic regression should be chosen.
 
 ```
 
