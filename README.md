@@ -10,8 +10,6 @@ I took two sets of data - one with Multivariate Gaussian Distribution and anothe
 ### Logistic Regression on gaussian data:
 <p><img src="logistic_gaussian.PNG" title="image2" alt="Classifier2"></a></p>
 
-
-  
 ```diff
 + If p(x|y) is Gaussian, then p(y|x) is also logistic, hence both techniques output good classifiers. However, GDA performs better.
 ```
@@ -22,5 +20,9 @@ I took two sets of data - one with Multivariate Gaussian Distribution and anothe
 ### Logistic Regression on non-gaussian data:
 <p><img src="logistic_non-gaussian.PNG" title="image4" alt="Classifier4"></a></p>
 
-#### If p(y|x) is logistic, p(x|y) might not be Gaussian. Logistic regression should be chosen.
+
+```diff
++ If p(y|x) is logistic, p(x|y) might not be Gaussian. Logistic regression should be chosen.
+
+```
 
