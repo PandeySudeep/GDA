@@ -10,6 +10,8 @@ I took two sets of data - one with Multivariate Gaussian Distribution and anothe
 ### Logistic Regression on gaussian data:
 <p><img src="logistic_gaussian.PNG" title="image2" alt="Classifier2"></a></p>
 
+#### Okay
+
 ### GDA on non-gaussian data:
 <p><img src="gda_non-gaussian.PNG" title="image3" alt="Classifier3"></a></p>
 
